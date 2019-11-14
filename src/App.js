@@ -40,7 +40,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>TEST</h1>
+        <h1>The Greatest Team of All Time!</h1>
         <MemberForm addNewMember={addNewMember} />
         <Members teamMembers={teamMembers} />
       </header>
